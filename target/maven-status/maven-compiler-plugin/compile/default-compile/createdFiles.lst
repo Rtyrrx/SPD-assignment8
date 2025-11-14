@@ -1,0 +1,12 @@
+com\madias\visitor\visitor\SizeVisitor.class
+com\madias\visitor\visitor\FSItem.class
+com\madias\visitor\visitor\Launcher.class
+com\madias\visitor\visitor\FolderItem.class
+module-info.class
+com\madias\visitor\visitor\IconVisitor.class
+com\madias\visitor\visitor\FileItem.class
+com\madias\visitor\visitor\HelloApplication.class
+com\madias\visitor\visitor\InfoVisitor.class
+com\madias\visitor\visitor\FSVisitor.class
+com\madias\visitor\visitor\HelloController.class
+com\madias\visitor\visitor\FileExplorerApp.class
